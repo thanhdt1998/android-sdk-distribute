@@ -12,9 +12,9 @@
      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>vn.vietmaptest.vietmapsdk</groupId>
-  <artifactId>vietmap-test2-sdk</artifactId>
+  <artifactId>MapboxGLAndroidSDK-release</artifactId>
   <version>1.0.1</version>
-  <name>vietmap-test2-sdk</name>
+  <name>MapboxGLAndroidSDK-release</name>
   <packaging>aar</packaging>
    <build>
     <plugins>
